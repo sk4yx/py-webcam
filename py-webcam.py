@@ -1,5 +1,7 @@
 # Developed By Skay69
 
+import cv2
+
 print(" - press 'q' key to change webcam, to close the program just type 'q' until all webcam close -")
 try:
 	for i in range(5):
